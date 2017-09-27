@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					B243B83A1F6C2C47001AF095 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = J8ZC4836EX;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = J8ZC4836EX;
 				INFOPLIST_FILE = "Is It Prime/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.-tripleapp.Is-It-Prime";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = J8ZC4836EX;
 				INFOPLIST_FILE = "Is It Prime/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.-tripleapp.Is-It-Prime";
@@ -299,6 +302,7 @@
 				B243B84F1F6C2C47001AF095 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

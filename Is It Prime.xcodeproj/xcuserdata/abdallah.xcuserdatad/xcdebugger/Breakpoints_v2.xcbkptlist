@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Is It Prime/ViewController.swift"
+            timestampString = "527697135.610245"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Is_It_Prime.ViewController.__deallocating_deinit"
+                  moduleName = "Is It Prime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdallah/Desktop/Projects/Is%20It%20Prime/Is%20It%20Prime/ViewController.swift"
+                  timestampString = "527698612.992224"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Is_It_Prime.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Is_It_Prime.ViewController"
+                  moduleName = "Is It Prime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdallah/Desktop/Projects/Is%20It%20Prime/Is%20It%20Prime/ViewController.swift"
+                  timestampString = "527698613.005247"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Is_It_Prime.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Is_It_Prime.ViewController"
+                  moduleName = "Is It Prime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdallah/Desktop/Projects/Is%20It%20Prime/Is%20It%20Prime/ViewController.swift"
+                  timestampString = "527698613.011868"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Is_It_Prime.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Is_It_Prime.ViewController&gt;"
+                  moduleName = "Is It Prime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdallah/Desktop/Projects/Is%20It%20Prime/Is%20It%20Prime/ViewController.swift"
+                  timestampString = "527698613.019053"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Is_It_Prime.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Is_It_Prime.ViewController&gt;"
+                  moduleName = "Is It Prime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdallah/Desktop/Projects/Is%20It%20Prime/Is%20It%20Prime/ViewController.swift"
+                  timestampString = "527698613.032218"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
